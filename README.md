@@ -185,8 +185,3 @@ The project is intended as an accessibility-focused prototype and is not present
 
 Built as an accessibility-focused computer interaction project.
 
----
-
-## 📄 License
-
-Add your preferred open-source license here if you intend to distribute the source code under one.
