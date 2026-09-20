@@ -1,0 +1,948 @@
+timestamp,input,command,confidence,action
+2026-09-13 10:04:13,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:13,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:14,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:14,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:15,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:15,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:15,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:16,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:16,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:18,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:18,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:19,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:19,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:19,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:20,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:20,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:20,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:21,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:21,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:21,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:22,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:22,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:23,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:23,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:23,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:24,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:30,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:30,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:30,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:31,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:31,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:31,gesture,head tilt,1.0,Scroll Down
+2026-09-13 10:04:32,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:33,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:33,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:33,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:34,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:34,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:34,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:35,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:35,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:35,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:36,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:36,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:36,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:37,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:37,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:38,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:38,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:38,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:39,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:39,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:39,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:40,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:40,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:40,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:41,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:41,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:04:41,gesture,head tilt,1.0,Scroll Up
+2026-09-13 10:31:49,facial,blink,click
+2026-09-13 10:32:04,facial,blink,click
+2026-09-13 10:32:11,facial,blink,click
+2026-09-13 10:32:14,facial,blink,click
+2026-09-13 10:32:18,facial,blink,click
+2026-09-13 10:32:24,facial,head tilt down,scroll down
+2026-09-13 10:32:25,facial,head tilt down,scroll down
+2026-09-13 10:32:25,facial,head tilt down,scroll down
+2026-09-13 10:32:25,facial,head tilt down,scroll down
+2026-09-13 10:32:25,facial,head tilt down,scroll down
+2026-09-13 10:32:25,facial,head tilt down,scroll down
+2026-09-13 10:32:26,facial,head tilt down,scroll down
+2026-09-13 10:32:26,facial,head tilt down,scroll down
+2026-09-13 10:32:29,facial,head tilt up,scroll up
+2026-09-13 10:32:29,facial,head tilt up,scroll up
+2026-09-13 10:32:29,facial,head tilt up,scroll up
+2026-09-13 10:32:29,facial,head tilt up,scroll up
+2026-09-13 10:32:29,facial,head tilt up,scroll up
+2026-09-13 10:32:30,facial,head tilt up,scroll up
+2026-09-13 10:32:30,facial,head tilt up,scroll up
+2026-09-13 10:32:30,facial,head tilt up,scroll up
+2026-09-13 10:32:30,facial,head tilt up,scroll up
+2026-09-13 10:32:31,facial,head tilt up,scroll up
+2026-09-13 10:32:31,facial,head tilt up,scroll up
+2026-09-13 10:32:31,facial,head tilt up,scroll up
+2026-09-13 10:32:31,facial,head tilt up,scroll up
+2026-09-13 10:32:31,facial,head tilt up,scroll up
+2026-09-13 10:32:32,facial,head tilt up,scroll up
+2026-09-13 10:32:32,facial,head tilt up,scroll up
+2026-09-13 10:32:32,facial,head tilt up,scroll up
+2026-09-13 10:32:32,facial,head tilt up,scroll up
+2026-09-13 10:32:33,facial,head tilt up,scroll up
+2026-09-13 10:32:33,facial,head tilt up,scroll up
+2026-09-13 10:32:33,facial,head tilt up,scroll up
+2026-09-13 10:32:33,facial,head tilt up,scroll up
+2026-09-13 10:32:33,facial,head tilt up,scroll up
+2026-09-13 10:32:34,facial,head tilt up,scroll up
+2026-09-13 10:32:34,facial,head tilt up,scroll up
+2026-09-13 10:32:34,facial,head tilt up,scroll up
+2026-09-13 10:32:34,facial,head tilt up,scroll up
+2026-09-13 10:32:35,facial,head tilt up,scroll up
+2026-09-13 10:32:35,facial,head tilt up,scroll up
+2026-09-13 10:32:35,facial,head tilt up,scroll up
+2026-09-13 10:32:35,facial,head tilt up,scroll up
+2026-09-13 10:32:36,facial,head tilt up,scroll up
+2026-09-13 10:32:36,facial,head tilt up,scroll up
+2026-09-13 10:32:36,facial,head tilt up,scroll up
+2026-09-13 10:32:36,facial,head tilt up,scroll up
+2026-09-13 10:32:36,facial,head tilt up,scroll up
+2026-09-13 10:32:37,facial,head tilt up,scroll up
+2026-09-13 10:32:37,facial,head tilt up,scroll up
+2026-09-13 10:32:37,facial,head tilt up,scroll up
+2026-09-13 10:32:37,facial,head tilt up,scroll up
+2026-09-13 10:32:38,facial,head tilt up,scroll up
+2026-09-13 10:32:38,facial,head tilt up,scroll up
+2026-09-13 10:32:38,facial,head tilt up,scroll up
+2026-09-13 10:32:38,facial,head tilt up,scroll up
+2026-09-13 10:32:38,facial,head tilt up,scroll up
+2026-09-13 10:32:39,facial,head tilt up,scroll up
+2026-09-13 10:32:39,facial,head tilt up,scroll up
+2026-09-13 10:32:39,facial,head tilt up,scroll up
+2026-09-13 10:32:39,facial,head tilt up,scroll up
+2026-09-13 10:32:40,facial,head tilt up,scroll up
+2026-09-13 10:32:40,facial,head tilt up,scroll up
+2026-09-13 10:32:40,facial,head tilt up,scroll up
+2026-09-13 10:32:40,facial,head tilt up,scroll up
+2026-09-13 10:32:40,facial,head tilt up,scroll up
+2026-09-13 10:32:41,facial,head tilt up,scroll up
+2026-09-13 10:32:41,facial,head tilt up,scroll up
+2026-09-13 10:32:41,facial,head tilt up,scroll up
+2026-09-13 10:32:41,facial,head tilt up,scroll up
+2026-09-13 10:32:42,facial,head tilt up,scroll up
+2026-09-13 10:32:42,facial,head tilt up,scroll up
+2026-09-13 10:32:42,facial,head tilt up,scroll up
+2026-09-13 10:32:42,facial,head tilt up,scroll up
+2026-09-13 10:32:42,facial,head tilt up,scroll up
+2026-09-13 10:32:43,facial,head tilt up,scroll up
+2026-09-13 10:32:43,facial,head tilt up,scroll up
+2026-09-13 10:32:43,facial,head tilt up,scroll up
+2026-09-13 10:32:43,facial,head tilt up,scroll up
+2026-09-13 10:32:44,facial,head tilt up,scroll up
+2026-09-13 10:32:44,facial,head tilt up,scroll up
+2026-09-13 10:32:44,facial,head tilt up,scroll up
+2026-09-13 10:32:44,facial,head tilt up,scroll up
+2026-09-13 10:32:45,facial,head tilt up,scroll up
+2026-09-13 10:32:45,facial,head tilt up,scroll up
+2026-09-13 10:32:45,facial,head tilt up,scroll up
+2026-09-13 10:32:45,facial,head tilt up,scroll up
+2026-09-13 10:32:45,facial,head tilt up,scroll up
+2026-09-13 10:32:46,facial,head tilt up,scroll up
+2026-09-13 10:32:46,facial,head tilt up,scroll up
+2026-09-13 10:32:46,facial,head tilt up,scroll up
+2026-09-13 10:32:46,facial,head tilt up,scroll up
+2026-09-13 10:32:47,facial,head tilt up,scroll up
+2026-09-13 10:32:47,facial,head tilt up,scroll up
+2026-09-13 10:32:47,facial,head tilt up,scroll up
+2026-09-13 10:32:47,facial,blink,click
+2026-09-13 10:32:47,facial,head tilt up,scroll up
+2026-09-13 10:32:48,facial,head tilt up,scroll up
+2026-09-13 10:32:48,facial,head tilt up,scroll up
+2026-09-13 10:32:48,facial,head tilt up,scroll up
+2026-09-13 10:32:48,facial,head tilt up,scroll up
+2026-09-13 10:33:02,voice,open chrome,executed
+2026-09-13 10:33:19,facial,blink,click
+2026-09-13 10:33:40,voice,open calculator,executed
+2026-09-13 10:33:55,voice,close chrome,ignored
+2026-09-13 10:34:12,facial,blink,click
+2026-09-13 10:34:53,facial,blink,click
+2026-09-13 10:35:04,facial,blink,click
+2026-09-13 10:35:07,facial,head tilt down,scroll down
+2026-09-13 10:35:08,facial,head tilt down,scroll down
+2026-09-13 10:35:08,facial,head tilt down,scroll down
+2026-09-13 10:35:08,facial,head tilt down,scroll down
+2026-09-13 10:35:08,facial,head tilt down,scroll down
+2026-09-13 10:35:08,facial,head tilt down,scroll down
+2026-09-13 10:35:09,facial,head tilt down,scroll down
+2026-09-13 10:35:09,facial,head tilt down,scroll down
+2026-09-13 10:35:09,facial,head tilt down,scroll down
+2026-09-13 10:35:09,facial,head tilt down,scroll down
+2026-09-13 10:35:10,facial,head tilt down,scroll down
+2026-09-13 10:35:10,facial,head tilt down,scroll down
+2026-09-13 10:35:10,facial,head tilt down,scroll down
+2026-09-13 10:35:10,facial,head tilt down,scroll down
+2026-09-13 10:35:10,facial,head tilt down,scroll down
+2026-09-13 10:35:11,facial,head tilt down,scroll down
+2026-09-13 10:35:11,facial,head tilt down,scroll down
+2026-09-13 10:35:11,facial,head tilt down,scroll down
+2026-09-13 10:35:11,facial,head tilt down,scroll down
+2026-09-13 10:35:12,facial,head tilt down,scroll down
+2026-09-13 10:35:12,facial,head tilt up,scroll up
+2026-09-13 10:35:12,facial,head tilt up,scroll up
+2026-09-13 10:35:13,facial,head tilt up,scroll up
+2026-09-13 10:35:13,facial,head tilt up,scroll up
+2026-09-13 10:35:13,facial,head tilt up,scroll up
+2026-09-13 10:35:13,facial,head tilt up,scroll up
+2026-09-13 10:35:14,facial,head tilt up,scroll up
+2026-09-13 10:35:14,facial,head tilt up,scroll up
+2026-09-13 10:35:14,facial,head tilt up,scroll up
+2026-09-13 10:35:14,facial,head tilt up,scroll up
+2026-09-13 10:35:14,facial,head tilt up,scroll up
+2026-09-13 10:35:15,facial,head tilt up,scroll up
+2026-09-13 10:35:15,facial,head tilt up,scroll up
+2026-09-13 10:35:15,facial,head tilt up,scroll up
+2026-09-13 10:35:15,facial,head tilt up,scroll up
+2026-09-13 10:35:16,facial,head tilt up,scroll up
+2026-09-13 10:35:16,facial,head tilt up,scroll up
+2026-09-13 10:35:16,facial,head tilt up,scroll up
+2026-09-13 10:35:16,facial,head tilt up,scroll up
+2026-09-13 10:35:16,facial,head tilt up,scroll up
+2026-09-13 10:35:17,facial,head tilt up,scroll up
+2026-09-13 10:35:17,facial,head tilt up,scroll up
+2026-09-13 10:35:17,facial,head tilt up,scroll up
+2026-09-13 10:35:17,facial,head tilt up,scroll up
+2026-09-13 10:35:18,facial,head tilt up,scroll up
+2026-09-13 10:35:18,facial,head tilt up,scroll up
+2026-09-13 10:35:18,facial,head tilt up,scroll up
+2026-09-13 10:35:18,facial,head tilt up,scroll up
+2026-09-13 10:35:23,voice,roller,ignored
+2026-09-13 10:35:50,voice,scroll down,executed
+2026-09-13 10:35:56,voice,scroll,ignored
+2026-09-13 10:36:01,voice,scroll,ignored
+2026-09-13 10:36:03,facial,blink,click
+2026-09-13 10:36:07,voice,scroll up,executed
+2026-09-13 10:36:12,voice,scroll,ignored
+2026-09-13 10:36:18,voice,scroll up,executed
+2026-09-13 10:36:40,voice,go back,executed
+2026-09-13 10:36:50,facial,blink,click
+2026-09-13 10:36:56,voice,stop exercise,ignored
+2026-09-13 10:37:05,facial,blink,click
+2026-09-13 10:37:17,facial,blink,click
+2026-09-13 10:37:21,facial,blink,click
+2026-09-13 10:37:31,facial,blink,click
+2026-09-13 10:45:36,facial,blink,click
+2026-09-13 10:45:38,facial,blink,click
+2026-09-13 10:45:46,facial,blink,click
+2026-09-13 10:45:48,facial,blink,click
+2026-09-13 10:45:52,voice,open chrome,executed
+2026-09-13 10:46:20,facial,blink,click
+2026-09-13 10:46:22,facial,blink,click
+2026-09-13 10:46:24,facial,blink,click
+2026-09-13 10:46:27,facial,blink,click
+2026-09-13 10:46:28,facial,blink,click
+2026-09-13 10:47:11,facial,blink,click
+2026-09-13 10:47:37,facial,blink,click
+2026-09-13 10:47:40,facial,blink,click
+2026-09-13 10:47:44,facial,blink,click
+2026-09-13 10:47:56,facial,blink,click
+2026-09-13 10:48:07,facial,blink,click
+2026-09-13 10:48:16,voice,scroll down,executed
+2026-09-13 10:48:28,voice,scroll down,executed
+2026-09-13 10:48:30,facial,blink,click
+2026-09-13 10:48:33,voice,scroll down,executed
+2026-09-13 10:48:45,facial,head tilt down,scroll down
+2026-09-13 10:48:45,facial,head tilt down,scroll down
+2026-09-13 10:48:45,facial,head tilt down,scroll down
+2026-09-13 10:48:46,facial,head tilt down,scroll down
+2026-09-13 10:48:46,facial,head tilt down,scroll down
+2026-09-13 10:48:46,facial,head tilt down,scroll down
+2026-09-13 10:48:46,facial,head tilt down,scroll down
+2026-09-13 10:48:47,facial,head tilt down,scroll down
+2026-09-13 10:48:47,facial,head tilt down,scroll down
+2026-09-13 10:48:47,facial,head tilt down,scroll down
+2026-09-13 10:48:47,facial,head tilt down,scroll down
+2026-09-13 10:48:47,facial,head tilt down,scroll down
+2026-09-13 10:48:48,facial,head tilt down,scroll down
+2026-09-13 10:48:48,facial,head tilt down,scroll down
+2026-09-13 10:48:48,facial,head tilt down,scroll down
+2026-09-13 10:48:48,facial,head tilt down,scroll down
+2026-09-13 10:48:49,facial,head tilt down,scroll down
+2026-09-13 10:48:49,facial,head tilt down,scroll down
+2026-09-13 10:48:49,facial,head tilt down,scroll down
+2026-09-13 10:48:49,facial,head tilt down,scroll down
+2026-09-13 10:48:49,facial,head tilt down,scroll down
+2026-09-13 10:48:50,facial,head tilt down,scroll down
+2026-09-13 10:48:50,facial,head tilt down,scroll down
+2026-09-13 10:48:50,facial,head tilt down,scroll down
+2026-09-13 10:48:50,facial,head tilt down,scroll down
+2026-09-13 10:48:51,facial,head tilt down,scroll down
+2026-09-13 10:48:52,facial,head tilt down,scroll down
+2026-09-13 10:48:53,facial,head tilt down,scroll down
+2026-09-13 10:48:53,facial,head tilt down,scroll down
+2026-09-13 10:48:53,facial,head tilt down,scroll down
+2026-09-13 10:48:53,facial,head tilt down,scroll down
+2026-09-13 10:48:54,facial,head tilt down,scroll down
+2026-09-13 10:48:54,facial,head tilt down,scroll down
+2026-09-13 10:48:54,facial,head tilt down,scroll down
+2026-09-13 10:48:54,facial,head tilt down,scroll down
+2026-09-13 10:48:54,facial,head tilt down,scroll down
+2026-09-13 10:48:55,facial,head tilt down,scroll down
+2026-09-13 10:48:55,facial,head tilt down,scroll down
+2026-09-13 10:48:55,facial,head tilt down,scroll down
+2026-09-13 10:48:55,facial,head tilt down,scroll down
+2026-09-13 10:48:56,facial,head tilt down,scroll down
+2026-09-13 10:48:56,facial,head tilt down,scroll down
+2026-09-13 10:48:56,facial,head tilt down,scroll down
+2026-09-13 10:48:56,facial,head tilt down,scroll down
+2026-09-13 10:48:56,facial,head tilt down,scroll down
+2026-09-13 10:48:57,facial,head tilt down,scroll down
+2026-09-13 10:48:57,facial,head tilt down,scroll down
+2026-09-13 10:48:57,facial,head tilt down,scroll down
+2026-09-13 10:48:57,facial,head tilt down,scroll down
+2026-09-13 10:48:58,facial,head tilt down,scroll down
+2026-09-13 10:48:58,facial,head tilt down,scroll down
+2026-09-13 10:48:58,facial,head tilt down,scroll down
+2026-09-13 10:48:58,facial,head tilt down,scroll down
+2026-09-13 10:48:58,facial,head tilt down,scroll down
+2026-09-13 10:48:59,facial,head tilt down,scroll down
+2026-09-13 10:48:59,facial,head tilt down,scroll down
+2026-09-13 10:48:59,facial,head tilt down,scroll down
+2026-09-13 10:48:59,facial,head tilt down,scroll down
+2026-09-13 10:49:00,facial,head tilt down,scroll down
+2026-09-13 10:49:00,facial,head tilt down,scroll down
+2026-09-13 10:49:00,facial,head tilt down,scroll down
+2026-09-13 10:49:00,facial,head tilt down,scroll down
+2026-09-13 10:49:00,facial,head tilt down,scroll down
+2026-09-13 10:49:01,facial,head tilt down,scroll down
+2026-09-13 10:49:01,facial,head tilt down,scroll down
+2026-09-13 10:49:01,facial,head tilt down,scroll down
+2026-09-13 10:49:01,facial,head tilt down,scroll down
+2026-09-13 10:49:02,facial,head tilt down,scroll down
+2026-09-13 10:49:02,facial,head tilt down,scroll down
+2026-09-13 10:49:02,facial,head tilt down,scroll down
+2026-09-13 10:49:02,facial,head tilt down,scroll down
+2026-09-13 10:49:02,facial,head tilt down,scroll down
+2026-09-13 10:49:03,facial,head tilt down,scroll down
+2026-09-13 10:49:03,facial,head tilt down,scroll down
+2026-09-13 10:49:03,facial,head tilt down,scroll down
+2026-09-13 10:49:03,facial,head tilt down,scroll down
+2026-09-13 10:49:04,facial,head tilt down,scroll down
+2026-09-13 10:49:04,facial,head tilt down,scroll down
+2026-09-13 10:49:04,facial,head tilt down,scroll down
+2026-09-13 10:49:04,facial,head tilt down,scroll down
+2026-09-13 10:49:04,facial,head tilt down,scroll down
+2026-09-13 10:49:05,facial,head tilt down,scroll down
+2026-09-13 10:49:05,facial,head tilt down,scroll down
+2026-09-13 10:49:05,facial,head tilt down,scroll down
+2026-09-13 10:49:05,facial,head tilt down,scroll down
+2026-09-13 10:49:06,facial,head tilt down,scroll down
+2026-09-13 10:49:06,facial,head tilt down,scroll down
+2026-09-13 10:49:06,facial,head tilt down,scroll down
+2026-09-13 10:49:06,facial,head tilt down,scroll down
+2026-09-13 10:49:06,facial,head tilt down,scroll down
+2026-09-13 10:49:07,facial,head tilt down,scroll down
+2026-09-13 10:49:07,facial,head tilt down,scroll down
+2026-09-13 10:49:07,facial,head tilt down,scroll down
+2026-09-13 10:49:07,facial,head tilt down,scroll down
+2026-09-13 10:49:08,facial,head tilt down,scroll down
+2026-09-13 10:49:08,facial,head tilt down,scroll down
+2026-09-13 10:49:08,facial,head tilt down,scroll down
+2026-09-13 10:49:08,facial,head tilt down,scroll down
+2026-09-13 10:49:08,facial,head tilt down,scroll down
+2026-09-13 10:49:09,facial,head tilt down,scroll down
+2026-09-13 10:49:09,facial,head tilt down,scroll down
+2026-09-13 10:49:09,facial,head tilt down,scroll down
+2026-09-13 10:49:09,facial,head tilt down,scroll down
+2026-09-13 10:49:10,facial,head tilt down,scroll down
+2026-09-13 10:49:10,facial,head tilt down,scroll down
+2026-09-13 10:49:10,facial,head tilt down,scroll down
+2026-09-13 10:49:10,facial,head tilt down,scroll down
+2026-09-13 10:49:10,facial,head tilt down,scroll down
+2026-09-13 10:49:11,facial,head tilt down,scroll down
+2026-09-13 10:49:11,facial,head tilt down,scroll down
+2026-09-13 10:49:11,facial,head tilt down,scroll down
+2026-09-13 10:49:11,facial,head tilt down,scroll down
+2026-09-13 10:49:12,facial,head tilt down,scroll down
+2026-09-13 10:49:12,facial,head tilt down,scroll down
+2026-09-13 10:49:12,facial,head tilt down,scroll down
+2026-09-13 10:49:12,facial,head tilt down,scroll down
+2026-09-13 10:49:12,facial,head tilt down,scroll down
+2026-09-13 10:49:13,facial,head tilt down,scroll down
+2026-09-13 10:49:13,facial,head tilt down,scroll down
+2026-09-13 10:49:13,facial,head tilt down,scroll down
+2026-09-13 10:49:13,facial,head tilt down,scroll down
+2026-09-13 10:49:14,facial,head tilt down,scroll down
+2026-09-13 10:49:14,facial,head tilt down,scroll down
+2026-09-13 10:49:14,facial,head tilt down,scroll down
+2026-09-13 10:49:14,facial,head tilt down,scroll down
+2026-09-13 10:49:14,facial,head tilt down,scroll down
+2026-09-13 10:49:15,facial,head tilt down,scroll down
+2026-09-13 10:49:15,facial,head tilt down,scroll down
+2026-09-13 10:49:15,facial,head tilt down,scroll down
+2026-09-13 10:49:15,facial,head tilt down,scroll down
+2026-09-13 10:49:16,facial,head tilt down,scroll down
+2026-09-13 10:49:16,facial,head tilt down,scroll down
+2026-09-13 10:49:16,facial,head tilt down,scroll down
+2026-09-13 10:49:16,facial,head tilt down,scroll down
+2026-09-13 10:49:16,facial,head tilt down,scroll down
+2026-09-13 10:49:17,facial,head tilt down,scroll down
+2026-09-13 10:49:17,facial,head tilt down,scroll down
+2026-09-13 10:49:17,facial,head tilt down,scroll down
+2026-09-13 10:49:17,facial,head tilt down,scroll down
+2026-09-13 10:49:18,facial,head tilt down,scroll down
+2026-09-13 10:49:18,facial,head tilt down,scroll down
+2026-09-13 10:49:18,facial,head tilt down,scroll down
+2026-09-13 10:49:18,facial,head tilt down,scroll down
+2026-09-13 10:49:18,facial,head tilt down,scroll down
+2026-09-13 10:49:19,facial,head tilt down,scroll down
+2026-09-13 10:49:19,facial,head tilt down,scroll down
+2026-09-13 10:49:19,facial,head tilt down,scroll down
+2026-09-13 10:49:19,facial,head tilt down,scroll down
+2026-09-13 10:49:20,facial,head tilt down,scroll down
+2026-09-13 10:49:20,facial,head tilt down,scroll down
+2026-09-13 10:49:20,facial,head tilt down,scroll down
+2026-09-13 10:49:20,facial,head tilt down,scroll down
+2026-09-13 10:49:20,facial,head tilt down,scroll down
+2026-09-13 10:49:21,facial,head tilt down,scroll down
+2026-09-13 10:49:21,facial,head tilt down,scroll down
+2026-09-13 10:49:21,facial,head tilt down,scroll down
+2026-09-13 10:49:21,facial,head tilt down,scroll down
+2026-09-13 10:49:22,facial,head tilt down,scroll down
+2026-09-13 10:49:22,facial,head tilt down,scroll down
+2026-09-13 10:49:22,facial,head tilt down,scroll down
+2026-09-13 10:49:22,facial,head tilt down,scroll down
+2026-09-13 10:49:22,facial,head tilt down,scroll down
+2026-09-13 10:49:23,facial,head tilt down,scroll down
+2026-09-13 10:49:23,facial,head tilt down,scroll down
+2026-09-13 10:49:23,facial,head tilt down,scroll down
+2026-09-13 10:49:23,facial,head tilt down,scroll down
+2026-09-13 10:49:24,facial,head tilt down,scroll down
+2026-09-13 10:49:24,facial,head tilt down,scroll down
+2026-09-13 10:49:24,facial,head tilt down,scroll down
+2026-09-13 10:49:24,facial,head tilt down,scroll down
+2026-09-13 10:49:24,facial,head tilt down,scroll down
+2026-09-13 10:49:25,facial,head tilt down,scroll down
+2026-09-13 10:49:25,facial,head tilt down,scroll down
+2026-09-13 10:49:25,facial,head tilt down,scroll down
+2026-09-13 10:49:25,facial,head tilt down,scroll down
+2026-09-13 10:49:26,facial,head tilt down,scroll down
+2026-09-13 10:49:26,facial,head tilt down,scroll down
+2026-09-13 10:49:26,facial,head tilt down,scroll down
+2026-09-13 10:49:26,facial,head tilt down,scroll down
+2026-09-13 10:49:26,facial,head tilt down,scroll down
+2026-09-13 10:49:27,facial,head tilt down,scroll down
+2026-09-13 10:49:27,facial,head tilt down,scroll down
+2026-09-13 10:49:27,facial,head tilt down,scroll down
+2026-09-13 10:49:27,facial,head tilt down,scroll down
+2026-09-13 10:49:28,facial,head tilt down,scroll down
+2026-09-13 10:49:28,facial,head tilt down,scroll down
+2026-09-13 10:49:28,facial,head tilt down,scroll down
+2026-09-13 10:49:28,facial,head tilt down,scroll down
+2026-09-13 10:49:28,facial,head tilt down,scroll down
+2026-09-13 10:49:29,facial,head tilt down,scroll down
+2026-09-13 10:49:29,facial,head tilt down,scroll down
+2026-09-13 10:49:29,facial,head tilt down,scroll down
+2026-09-13 10:49:29,facial,head tilt down,scroll down
+2026-09-13 10:49:30,facial,head tilt down,scroll down
+2026-09-13 10:49:30,facial,head tilt down,scroll down
+2026-09-13 10:49:30,facial,head tilt down,scroll down
+2026-09-13 10:49:30,facial,head tilt down,scroll down
+2026-09-13 10:49:30,facial,head tilt down,scroll down
+2026-09-13 10:49:31,facial,head tilt down,scroll down
+2026-09-13 10:49:31,facial,head tilt down,scroll down
+2026-09-13 10:49:31,facial,head tilt down,scroll down
+2026-09-13 10:49:31,facial,head tilt down,scroll down
+2026-09-13 10:49:32,facial,head tilt down,scroll down
+2026-09-13 10:49:32,facial,head tilt down,scroll down
+2026-09-13 10:49:32,facial,head tilt down,scroll down
+2026-09-13 10:49:32,facial,head tilt down,scroll down
+2026-09-13 10:49:32,facial,head tilt down,scroll down
+2026-09-13 10:49:33,facial,head tilt down,scroll down
+2026-09-13 10:49:33,facial,head tilt down,scroll down
+2026-09-13 10:49:33,facial,head tilt down,scroll down
+2026-09-13 10:49:33,facial,head tilt down,scroll down
+2026-09-13 10:49:34,facial,head tilt down,scroll down
+2026-09-13 10:49:34,facial,head tilt down,scroll down
+2026-09-13 10:49:34,facial,head tilt down,scroll down
+2026-09-13 10:49:34,facial,head tilt down,scroll down
+2026-09-13 10:49:34,facial,head tilt down,scroll down
+2026-09-13 10:49:35,facial,head tilt down,scroll down
+2026-09-13 10:49:35,facial,head tilt down,scroll down
+2026-09-13 10:49:35,facial,head tilt down,scroll down
+2026-09-13 10:49:35,facial,head tilt down,scroll down
+2026-09-13 10:49:36,facial,head tilt down,scroll down
+2026-09-13 10:49:36,facial,head tilt down,scroll down
+2026-09-13 10:49:36,facial,head tilt down,scroll down
+2026-09-13 10:49:36,facial,head tilt down,scroll down
+2026-09-13 10:49:36,facial,head tilt down,scroll down
+2026-09-13 10:49:37,facial,head tilt down,scroll down
+2026-09-13 10:49:37,facial,head tilt down,scroll down
+2026-09-13 10:49:37,facial,head tilt down,scroll down
+2026-09-13 10:49:37,facial,head tilt down,scroll down
+2026-09-13 10:49:38,facial,head tilt down,scroll down
+2026-09-13 10:49:38,facial,head tilt down,scroll down
+2026-09-13 10:49:38,facial,head tilt down,scroll down
+2026-09-13 10:49:38,facial,head tilt down,scroll down
+2026-09-13 10:49:38,facial,head tilt down,scroll down
+2026-09-13 10:49:39,facial,head tilt down,scroll down
+2026-09-13 10:49:39,facial,head tilt down,scroll down
+2026-09-13 10:49:39,facial,head tilt down,scroll down
+2026-09-13 10:49:39,facial,head tilt down,scroll down
+2026-09-13 10:49:40,facial,head tilt down,scroll down
+2026-09-13 10:49:40,facial,head tilt down,scroll down
+2026-09-13 10:49:40,facial,head tilt down,scroll down
+2026-09-13 10:49:40,facial,head tilt down,scroll down
+2026-09-13 10:49:40,facial,head tilt down,scroll down
+2026-09-13 10:49:41,facial,head tilt down,scroll down
+2026-09-13 10:49:41,facial,head tilt down,scroll down
+2026-09-13 10:49:41,facial,head tilt down,scroll down
+2026-09-13 10:49:41,facial,head tilt down,scroll down
+2026-09-13 10:49:42,facial,head tilt down,scroll down
+2026-09-13 10:49:42,facial,head tilt down,scroll down
+2026-09-13 10:49:42,facial,head tilt down,scroll down
+2026-09-13 10:49:42,facial,head tilt down,scroll down
+2026-09-13 10:49:42,facial,head tilt down,scroll down
+2026-09-13 10:49:43,facial,head tilt down,scroll down
+2026-09-13 10:49:43,facial,head tilt down,scroll down
+2026-09-13 10:49:43,facial,head tilt down,scroll down
+2026-09-13 10:49:43,facial,head tilt down,scroll down
+2026-09-13 10:49:44,facial,head tilt down,scroll down
+2026-09-13 10:49:44,facial,head tilt down,scroll down
+2026-09-13 10:49:44,facial,head tilt down,scroll down
+2026-09-13 10:49:44,facial,head tilt down,scroll down
+2026-09-13 10:49:44,facial,head tilt down,scroll down
+2026-09-13 10:49:45,facial,head tilt down,scroll down
+2026-09-13 10:49:45,facial,head tilt down,scroll down
+2026-09-13 10:49:45,facial,head tilt down,scroll down
+2026-09-13 10:49:45,facial,head tilt down,scroll down
+2026-09-13 10:49:46,facial,head tilt down,scroll down
+2026-09-13 10:49:46,facial,head tilt down,scroll down
+2026-09-13 10:49:46,facial,head tilt down,scroll down
+2026-09-13 10:49:46,facial,head tilt down,scroll down
+2026-09-13 10:49:46,facial,head tilt down,scroll down
+2026-09-13 10:49:47,facial,head tilt down,scroll down
+2026-09-13 10:49:47,facial,head tilt down,scroll down
+2026-09-13 10:49:47,facial,head tilt down,scroll down
+2026-09-13 10:49:47,facial,head tilt down,scroll down
+2026-09-13 10:49:48,facial,head tilt down,scroll down
+2026-09-13 10:49:48,facial,head tilt down,scroll down
+2026-09-13 10:49:48,facial,head tilt down,scroll down
+2026-09-13 10:49:48,facial,head tilt down,scroll down
+2026-09-13 10:49:48,facial,head tilt down,scroll down
+2026-09-13 10:49:49,facial,head tilt down,scroll down
+2026-09-13 10:49:49,facial,head tilt down,scroll down
+2026-09-13 10:49:49,facial,head tilt down,scroll down
+2026-09-13 10:49:49,facial,head tilt down,scroll down
+2026-09-13 10:49:50,facial,head tilt down,scroll down
+2026-09-13 10:49:50,facial,head tilt down,scroll down
+2026-09-13 10:49:50,facial,head tilt down,scroll down
+2026-09-13 10:49:50,facial,head tilt down,scroll down
+2026-09-13 10:49:50,facial,head tilt down,scroll down
+2026-09-13 10:49:51,facial,head tilt down,scroll down
+2026-09-13 10:49:51,facial,head tilt down,scroll down
+2026-09-13 10:49:51,facial,head tilt down,scroll down
+2026-09-13 10:49:51,facial,head tilt down,scroll down
+2026-09-13 10:49:52,facial,head tilt down,scroll down
+2026-09-13 10:49:52,facial,head tilt down,scroll down
+2026-09-13 10:49:52,facial,head tilt down,scroll down
+2026-09-13 10:49:52,facial,head tilt down,scroll down
+2026-09-13 10:49:52,facial,head tilt down,scroll down
+2026-09-13 10:49:53,facial,head tilt down,scroll down
+2026-09-13 10:49:53,facial,head tilt down,scroll down
+2026-09-13 10:49:53,facial,head tilt down,scroll down
+2026-09-13 10:49:53,facial,head tilt down,scroll down
+2026-09-13 10:49:54,facial,head tilt down,scroll down
+2026-09-13 10:49:54,facial,head tilt down,scroll down
+2026-09-13 10:49:54,facial,head tilt down,scroll down
+2026-09-13 10:49:54,facial,head tilt down,scroll down
+2026-09-13 10:49:54,facial,head tilt down,scroll down
+2026-09-13 10:49:55,facial,head tilt down,scroll down
+2026-09-13 10:49:55,facial,head tilt down,scroll down
+2026-09-13 10:49:55,facial,head tilt down,scroll down
+2026-09-13 10:49:55,facial,head tilt down,scroll down
+2026-09-13 10:49:55,facial,head tilt down,scroll down
+2026-09-13 10:49:56,facial,head tilt down,scroll down
+2026-09-13 10:49:56,facial,head tilt down,scroll down
+2026-09-13 10:49:56,facial,head tilt down,scroll down
+2026-09-13 10:49:56,facial,head tilt down,scroll down
+2026-09-13 10:49:57,facial,head tilt down,scroll down
+2026-09-13 10:49:57,facial,head tilt down,scroll down
+2026-09-13 10:49:57,facial,head tilt down,scroll down
+2026-09-13 10:49:57,facial,head tilt down,scroll down
+2026-09-13 10:49:58,facial,head tilt down,scroll down
+2026-09-13 10:49:58,facial,head tilt down,scroll down
+2026-09-13 10:49:58,facial,head tilt down,scroll down
+2026-09-13 10:49:58,facial,head tilt down,scroll down
+2026-09-13 10:49:58,facial,head tilt down,scroll down
+2026-09-13 10:49:59,facial,head tilt down,scroll down
+2026-09-13 10:49:59,facial,head tilt down,scroll down
+2026-09-13 10:49:59,facial,head tilt down,scroll down
+2026-09-13 10:50:02,facial,blink,click
+2026-09-13 11:02:00,facial,blink,mouse click
+2026-09-13 11:02:02,facial,blink,mouse click
+2026-09-13 11:02:06,facial,blink,mouse click
+2026-09-13 11:02:33,facial,blink,mouse click
+2026-09-13 11:02:45,voice,open chrome,opened Chrome
+2026-09-13 11:03:17,facial,blink,mouse click
+2026-09-13 11:03:22,facial,blink,mouse click
+2026-09-13 11:03:27,facial,blink,mouse click
+2026-09-13 11:03:33,facial,blink,mouse click
+2026-09-13 11:03:42,facial,blink,mouse click
+2026-09-13 11:03:47,facial,blink,mouse click
+2026-09-13 11:03:49,facial,blink,mouse click
+2026-09-13 11:03:51,facial,blink,mouse click
+2026-09-13 11:04:05,facial,blink,mouse click
+2026-09-13 11:04:08,facial,blink,mouse click
+2026-09-13 11:04:19,facial,blink,mouse click
+2026-09-13 11:04:25,facial,blink,mouse click
+2026-09-13 11:04:28,voice,open calculator,opened Calculator
+2026-09-13 11:04:44,facial,blink,mouse click
+2026-09-13 11:04:51,facial,blink,mouse click
+2026-09-13 11:04:54,facial,head tilt,scroll down
+2026-09-13 11:04:54,facial,head tilt,scroll down
+2026-09-13 11:04:54,facial,head tilt,scroll down
+2026-09-13 11:04:55,facial,head tilt,scroll down
+2026-09-13 11:04:55,facial,head tilt,scroll down
+2026-09-13 11:04:55,facial,head tilt,scroll down
+2026-09-13 11:04:55,facial,head tilt,scroll down
+2026-09-13 11:04:56,facial,head tilt,scroll down
+2026-09-13 11:04:56,facial,head tilt,scroll down
+2026-09-13 11:04:56,facial,head tilt,scroll down
+2026-09-13 11:04:56,facial,head tilt,scroll down
+2026-09-13 11:04:56,facial,head tilt,scroll down
+2026-09-13 11:04:58,facial,head tilt,scroll up
+2026-09-13 11:04:58,facial,head tilt,scroll up
+2026-09-13 11:04:58,facial,head tilt,scroll up
+2026-09-13 11:04:58,facial,head tilt,scroll up
+2026-09-13 11:04:59,facial,head tilt,scroll up
+2026-09-13 11:04:59,facial,head tilt,scroll up
+2026-09-13 11:04:59,facial,head tilt,scroll up
+2026-09-13 11:04:59,facial,head tilt,scroll up
+2026-09-13 11:04:59,facial,head tilt,scroll up
+2026-09-13 11:05:00,facial,head tilt,scroll up
+2026-09-13 11:05:00,facial,head tilt,scroll up
+2026-09-13 11:05:00,facial,head tilt,scroll up
+2026-09-13 11:05:00,facial,head tilt,scroll up
+2026-09-13 11:05:01,facial,blink,mouse click
+2026-09-13 11:05:05,facial,blink,mouse click
+2026-09-13 11:05:32,facial,blink,mouse click
+2026-09-13 11:05:34,facial,blink,mouse click
+2026-09-13 11:05:37,facial,head tilt,scroll down
+2026-09-13 11:05:37,facial,head tilt,scroll down
+2026-09-13 11:05:37,facial,head tilt,scroll down
+2026-09-13 11:05:38,facial,head tilt,scroll down
+2026-09-13 11:05:38,facial,head tilt,scroll down
+2026-09-13 11:05:38,facial,head tilt,scroll down
+2026-09-13 11:05:42,facial,head tilt,scroll up
+2026-09-13 11:05:42,facial,head tilt,scroll up
+2026-09-13 11:05:42,facial,head tilt,scroll up
+2026-09-13 11:05:42,facial,head tilt,scroll up
+2026-09-13 11:05:58,facial,head tilt,scroll up
+2026-09-13 11:05:58,facial,head tilt,scroll up
+2026-09-13 11:05:59,facial,head tilt,scroll up
+2026-09-13 11:05:59,facial,head tilt,scroll up
+2026-09-13 11:05:59,facial,head tilt,scroll up
+2026-09-13 11:05:59,facial,head tilt,scroll up
+2026-09-13 11:06:00,facial,head tilt,scroll up
+2026-09-13 11:06:00,facial,head tilt,scroll up
+2026-09-13 11:06:00,facial,head tilt,scroll down
+2026-09-13 11:06:01,facial,head tilt,scroll down
+2026-09-13 11:06:01,facial,head tilt,scroll down
+2026-09-13 11:06:01,facial,head tilt,scroll down
+2026-09-13 11:06:01,facial,head tilt,scroll down
+2026-09-13 11:06:01,facial,head tilt,scroll down
+2026-09-13 11:06:02,facial,head tilt,scroll down
+2026-09-13 11:06:02,facial,head tilt,scroll down
+2026-09-13 11:06:02,facial,head tilt,scroll down
+2026-09-13 11:06:02,facial,head tilt,scroll down
+2026-09-13 11:06:03,facial,head tilt,scroll down
+2026-09-13 11:06:03,facial,head tilt,scroll down
+2026-09-13 11:06:03,facial,head tilt,scroll down
+2026-09-13 11:06:03,facial,head tilt,scroll down
+2026-09-13 11:06:03,facial,head tilt,scroll down
+2026-09-13 11:06:04,facial,head tilt,scroll down
+2026-09-13 11:06:04,facial,head tilt,scroll down
+2026-09-13 11:06:04,facial,head tilt,scroll down
+2026-09-13 11:06:04,facial,head tilt,scroll down
+2026-09-13 11:06:05,facial,head tilt,scroll down
+2026-09-13 11:06:05,facial,head tilt,scroll down
+2026-09-13 11:06:05,facial,head tilt,scroll down
+2026-09-13 11:06:05,facial,head tilt,scroll down
+2026-09-13 11:06:06,facial,head tilt,scroll down
+2026-09-13 11:06:06,facial,head tilt,scroll down
+2026-09-13 11:06:06,facial,head tilt,scroll down
+2026-09-13 11:06:06,facial,head tilt,scroll down
+2026-09-13 11:06:06,facial,head tilt,scroll down
+2026-09-13 11:06:07,facial,head tilt,scroll down
+2026-09-13 11:06:07,facial,head tilt,scroll down
+2026-09-13 11:06:07,facial,head tilt,scroll down
+2026-09-13 11:06:07,facial,head tilt,scroll down
+2026-09-13 11:06:08,facial,head tilt,scroll down
+2026-09-13 11:06:08,facial,head tilt,scroll down
+2026-09-13 11:06:08,facial,head tilt,scroll down
+2026-09-13 11:06:08,facial,head tilt,scroll down
+2026-09-13 11:06:08,facial,head tilt,scroll down
+2026-09-13 11:06:09,facial,head tilt,scroll down
+2026-09-13 11:06:09,facial,head tilt,scroll down
+2026-09-13 11:06:09,facial,head tilt,scroll down
+2026-09-13 11:06:09,facial,head tilt,scroll down
+2026-09-13 11:06:10,facial,head tilt,scroll down
+2026-09-13 11:06:10,facial,head tilt,scroll down
+2026-09-13 11:06:10,facial,head tilt,scroll down
+2026-09-13 11:06:10,facial,head tilt,scroll down
+2026-09-13 11:06:11,facial,head tilt,scroll down
+2026-09-13 11:06:11,facial,head tilt,scroll down
+2026-09-13 11:06:11,facial,head tilt,scroll down
+2026-09-13 11:06:11,facial,head tilt,scroll down
+2026-09-13 11:06:11,facial,head tilt,scroll down
+2026-09-13 11:06:12,facial,head tilt,scroll down
+2026-09-13 11:06:12,facial,head tilt,scroll down
+2026-09-13 11:06:12,facial,head tilt,scroll down
+2026-09-13 11:06:12,facial,head tilt,scroll down
+2026-09-13 11:06:13,facial,head tilt,scroll down
+2026-09-13 11:06:13,facial,head tilt,scroll down
+2026-09-13 11:06:13,facial,head tilt,scroll down
+2026-09-13 11:06:13,facial,head tilt,scroll down
+2026-09-13 11:06:13,facial,head tilt,scroll down
+2026-09-13 11:06:14,facial,head tilt,scroll down
+2026-09-13 11:06:14,facial,head tilt,scroll down
+2026-09-13 11:06:14,facial,head tilt,scroll down
+2026-09-13 11:06:14,facial,head tilt,scroll down
+2026-09-13 11:06:15,facial,head tilt,scroll down
+2026-09-13 11:06:15,facial,head tilt,scroll down
+2026-09-13 11:06:15,facial,head tilt,scroll down
+2026-09-13 11:06:15,facial,head tilt,scroll down
+2026-09-13 11:06:15,facial,head tilt,scroll down
+2026-09-13 11:06:16,facial,head tilt,scroll down
+2026-09-13 11:06:16,facial,head tilt,scroll down
+2026-09-13 11:06:16,facial,head tilt,scroll down
+2026-09-13 11:06:16,facial,head tilt,scroll down
+2026-09-13 11:06:17,facial,head tilt,scroll down
+2026-09-13 11:06:17,facial,head tilt,scroll down
+2026-09-13 11:06:17,facial,head tilt,scroll down
+2026-09-13 11:06:17,facial,head tilt,scroll down
+2026-09-13 11:06:18,facial,head tilt,scroll down
+2026-09-13 11:06:18,facial,head tilt,scroll down
+2026-09-13 11:06:18,facial,head tilt,scroll down
+2026-09-13 11:06:18,facial,head tilt,scroll down
+2026-09-13 11:06:18,facial,head tilt,scroll down
+2026-09-13 11:06:19,facial,head tilt,scroll down
+2026-09-13 11:06:19,facial,head tilt,scroll down
+2026-09-13 11:06:19,facial,head tilt,scroll down
+2026-09-13 11:06:19,facial,head tilt,scroll down
+2026-09-13 11:06:20,facial,head tilt,scroll down
+2026-09-13 11:06:20,facial,head tilt,scroll down
+2026-09-13 11:06:20,facial,head tilt,scroll down
+2026-09-13 11:06:20,facial,head tilt,scroll down
+2026-09-13 11:06:20,facial,head tilt,scroll down
+2026-09-13 11:06:21,facial,head tilt,scroll down
+2026-09-13 11:06:21,facial,head tilt,scroll down
+2026-09-13 11:06:21,facial,head tilt,scroll down
+2026-09-13 11:06:21,facial,head tilt,scroll down
+2026-09-13 11:06:22,facial,head tilt,scroll down
+2026-09-13 11:06:22,facial,head tilt,scroll down
+2026-09-13 11:06:22,facial,head tilt,scroll down
+2026-09-13 11:06:22,facial,head tilt,scroll down
+2026-09-13 11:06:23,facial,head tilt,scroll down
+2026-09-13 11:06:23,facial,head tilt,scroll down
+2026-09-13 11:06:23,facial,head tilt,scroll down
+2026-09-13 11:06:23,facial,head tilt,scroll down
+2026-09-13 11:06:23,facial,head tilt,scroll down
+2026-09-13 11:06:24,facial,head tilt,scroll down
+2026-09-13 11:06:24,facial,head tilt,scroll down
+2026-09-13 11:06:24,facial,head tilt,scroll down
+2026-09-13 11:06:24,facial,head tilt,scroll down
+2026-09-13 11:06:25,facial,head tilt,scroll down
+2026-09-13 11:06:25,facial,head tilt,scroll down
+2026-09-13 11:06:25,facial,head tilt,scroll down
+2026-09-13 11:06:25,facial,head tilt,scroll down
+2026-09-13 11:06:25,facial,head tilt,scroll down
+2026-09-13 11:06:26,facial,head tilt,scroll down
+2026-09-13 11:06:26,facial,head tilt,scroll down
+2026-09-13 11:06:26,facial,head tilt,scroll down
+2026-09-13 11:06:26,facial,head tilt,scroll down
+2026-09-13 11:06:27,facial,head tilt,scroll down
+2026-09-13 11:06:27,facial,head tilt,scroll down
+2026-09-13 11:06:27,facial,head tilt,scroll down
+2026-09-13 11:06:27,facial,head tilt,scroll down
+2026-09-13 11:06:28,facial,head tilt,scroll down
+2026-09-13 11:06:28,facial,head tilt,scroll down
+2026-09-13 11:06:28,facial,head tilt,scroll down
+2026-09-13 11:06:28,facial,head tilt,scroll down
+2026-09-13 11:06:28,facial,head tilt,scroll down
+2026-09-13 11:06:29,facial,head tilt,scroll down
+2026-09-13 11:06:29,facial,head tilt,scroll down
+2026-09-13 11:06:29,facial,head tilt,scroll down
+2026-09-13 11:06:29,facial,head tilt,scroll down
+2026-09-13 11:06:30,facial,head tilt,scroll down
+2026-09-13 11:06:30,facial,head tilt,scroll down
+2026-09-13 11:06:30,facial,head tilt,scroll down
+2026-09-13 11:06:30,facial,head tilt,scroll down
+2026-09-13 11:06:30,facial,head tilt,scroll down
+2026-09-13 11:06:31,facial,head tilt,scroll down
+2026-09-13 11:06:31,facial,head tilt,scroll down
+2026-09-13 11:06:31,facial,head tilt,scroll down
+2026-09-13 11:06:31,facial,head tilt,scroll down
+2026-09-13 11:06:32,facial,head tilt,scroll down
+2026-09-13 11:06:32,facial,head tilt,scroll down
+2026-09-13 11:06:32,facial,head tilt,scroll down
+2026-09-13 11:06:32,facial,head tilt,scroll down
+2026-09-13 11:06:33,facial,head tilt,scroll down
+2026-09-13 11:06:33,facial,head tilt,scroll down
+2026-09-13 11:06:33,facial,head tilt,scroll down
+2026-09-13 11:06:33,facial,head tilt,scroll down
+2026-09-13 11:06:33,facial,head tilt,scroll down
+2026-09-13 11:06:34,facial,head tilt,scroll down
+2026-09-13 11:06:34,facial,head tilt,scroll down
+2026-09-13 11:06:34,facial,head tilt,scroll down
+2026-09-13 11:06:34,facial,head tilt,scroll down
+2026-09-13 11:06:35,facial,head tilt,scroll down
+2026-09-13 11:06:35,facial,head tilt,scroll down
+2026-09-13 11:06:35,facial,head tilt,scroll down
+2026-09-13 11:06:35,facial,head tilt,scroll down
+2026-09-13 11:06:35,facial,head tilt,scroll down
+2026-09-13 11:06:36,facial,head tilt,scroll down
+2026-09-13 11:06:36,facial,head tilt,scroll down
+2026-09-13 11:06:36,facial,head tilt,scroll down
+2026-09-13 11:06:36,facial,head tilt,scroll down
+2026-09-13 11:06:37,facial,head tilt,scroll down
+2026-09-13 11:06:37,facial,head tilt,scroll down
+2026-09-13 11:06:37,facial,head tilt,scroll down
+2026-09-13 11:06:37,facial,head tilt,scroll down
+2026-09-13 11:06:38,facial,head tilt,scroll down
+2026-09-13 11:06:38,facial,head tilt,scroll down
+2026-09-13 11:06:38,facial,head tilt,scroll down
+2026-09-13 11:06:38,facial,head tilt,scroll down
+2026-09-13 11:06:38,facial,head tilt,scroll down
+2026-09-13 11:06:39,facial,head tilt,scroll down
+2026-09-13 11:06:39,facial,head tilt,scroll down
+2026-09-13 11:06:39,facial,head tilt,scroll down
+2026-09-13 11:06:39,facial,head tilt,scroll down
+2026-09-13 11:06:40,facial,head tilt,scroll down
+2026-09-13 11:06:40,facial,head tilt,scroll down
+2026-09-13 11:06:40,facial,head tilt,scroll down
+2026-09-13 11:06:40,facial,head tilt,scroll down
+2026-09-13 11:06:40,facial,head tilt,scroll down
+2026-09-13 11:06:41,facial,head tilt,scroll down
+2026-09-13 11:06:41,facial,head tilt,scroll down
+2026-09-13 11:06:41,facial,head tilt,scroll down
+2026-09-13 11:06:41,facial,head tilt,scroll down
+2026-09-13 11:06:42,facial,head tilt,scroll down
+2026-09-13 11:06:42,facial,head tilt,scroll down
+2026-09-13 11:06:42,facial,head tilt,scroll down
+2026-09-13 11:06:42,facial,head tilt,scroll down
+2026-09-13 11:06:42,facial,head tilt,scroll down
+2026-09-13 11:06:43,facial,head tilt,scroll down
+2026-09-13 11:06:43,facial,head tilt,scroll down
+2026-09-13 11:06:43,facial,head tilt,scroll down
+2026-09-13 11:06:43,facial,head tilt,scroll down
+2026-09-13 11:06:44,facial,head tilt,scroll down
+2026-09-13 11:06:44,facial,head tilt,scroll down
+2026-09-13 11:06:44,facial,head tilt,scroll down
+2026-09-13 11:06:44,facial,head tilt,scroll down
+2026-09-13 11:06:45,facial,head tilt,scroll down
+2026-09-13 11:06:45,facial,head tilt,scroll down
+2026-09-13 11:06:45,facial,head tilt,scroll down
+2026-09-13 11:06:45,facial,head tilt,scroll down
+2026-09-13 11:06:46,facial,blink,mouse click
+2026-09-13 11:06:48,facial,blink,mouse click
+2026-09-13 11:06:49,facial,blink,mouse click
+2026-09-13 11:06:51,facial,blink,mouse click
+2026-09-13 11:06:51,facial,head tilt,scroll down
+2026-09-13 11:06:52,facial,head tilt,scroll down
+2026-09-13 11:06:52,facial,head tilt,scroll down
+2026-09-13 11:06:52,facial,head tilt,scroll down
+2026-09-13 11:06:52,facial,head tilt,scroll down
+2026-09-13 11:06:53,facial,head tilt,scroll down
+2026-09-13 11:06:53,facial,head tilt,scroll down
+2026-09-13 11:06:53,facial,head tilt,scroll down
+2026-09-13 11:06:53,facial,head tilt,scroll down
+2026-09-13 11:06:53,facial,head tilt,scroll down
+2026-09-13 11:06:54,facial,head tilt,scroll down
+2026-09-13 11:06:54,facial,head tilt,scroll down
+2026-09-13 11:06:54,facial,head tilt,scroll down
+2026-09-13 11:06:54,facial,head tilt,scroll down
+2026-09-13 11:06:55,facial,head tilt,scroll down
+2026-09-13 11:06:55,facial,head tilt,scroll down
+2026-09-13 11:06:55,facial,head tilt,scroll down
+2026-09-13 11:06:55,facial,head tilt,scroll down
+2026-09-13 11:06:55,facial,head tilt,scroll down
+2026-09-13 11:06:56,facial,head tilt,scroll down
+2026-09-13 11:06:56,facial,head tilt,scroll down
+2026-09-13 11:06:56,facial,head tilt,scroll down
+2026-09-13 11:06:56,facial,head tilt,scroll down
+2026-09-13 11:06:57,facial,head tilt,scroll down
+2026-09-13 11:06:57,facial,head tilt,scroll down
+2026-09-13 11:06:57,facial,head tilt,scroll down
+2026-09-13 11:06:57,facial,head tilt,scroll down
+2026-09-13 11:06:58,facial,head tilt,scroll down
+2026-09-13 11:06:58,facial,head tilt,scroll down
+2026-09-13 11:06:58,facial,head tilt,scroll down
+2026-09-13 11:06:58,facial,head tilt,scroll down
+2026-09-13 11:06:58,facial,head tilt,scroll down
+2026-09-13 11:06:59,facial,head tilt,scroll down
+2026-09-13 11:06:59,facial,head tilt,scroll down
+2026-09-13 11:06:59,facial,head tilt,scroll down
+2026-09-13 11:06:59,facial,head tilt,scroll down
+2026-09-13 11:07:00,facial,head tilt,scroll down
+2026-09-13 11:07:00,facial,head tilt,scroll down
+2026-09-13 11:07:00,facial,head tilt,scroll down
+2026-09-13 11:07:00,facial,head tilt,scroll down
+2026-09-13 11:07:00,facial,head tilt,scroll down
+2026-09-13 11:07:01,facial,head tilt,scroll down
+2026-09-13 11:07:01,facial,head tilt,scroll down
+2026-09-13 11:07:01,facial,head tilt,scroll down
+2026-09-13 11:07:01,facial,head tilt,scroll down
+2026-09-13 11:07:02,facial,head tilt,scroll down
+2026-09-13 11:07:02,facial,head tilt,scroll down
+2026-09-13 11:07:02,facial,head tilt,scroll down
+2026-09-13 11:07:02,facial,head tilt,scroll down
+2026-09-13 11:07:03,facial,head tilt,scroll down
+2026-09-13 11:07:03,facial,head tilt,scroll down
+2026-09-13 11:07:03,facial,head tilt,scroll down
+2026-09-13 11:07:03,facial,head tilt,scroll down
+2026-09-13 11:07:03,facial,head tilt,scroll down
+2026-09-13 11:07:04,facial,head tilt,scroll down
+2026-09-13 11:07:04,facial,head tilt,scroll down
+2026-09-13 11:07:04,facial,head tilt,scroll down
+2026-09-13 11:07:04,facial,head tilt,scroll down
+2026-09-13 11:07:05,facial,head tilt,scroll down
+2026-09-13 11:07:05,facial,head tilt,scroll down
+2026-09-13 11:07:05,facial,head tilt,scroll down
+2026-09-13 11:07:05,facial,head tilt,scroll down
+2026-09-13 11:07:06,facial,head tilt,scroll down
+2026-09-13 11:07:06,facial,head tilt,scroll down
+2026-09-13 11:07:06,facial,head tilt,scroll down
+2026-09-13 11:07:06,facial,head tilt,scroll down
+2026-09-13 11:07:06,facial,head tilt,scroll down
+2026-09-13 11:07:07,facial,head tilt,scroll down
+2026-09-13 11:07:07,facial,head tilt,scroll down
+2026-09-13 11:07:07,facial,head tilt,scroll down
+2026-09-13 11:07:07,facial,head tilt,scroll down
+2026-09-13 11:07:12,facial,blink,mouse click
+2026-09-13 11:07:19,facial,blink,mouse click
+2026-09-13 11:07:36,facial,blink,mouse click
+2026-09-13 11:07:37,facial,blink,mouse click
+2026-09-13 11:07:45,facial,blink,mouse click
+2026-09-13 11:07:49,facial,blink,mouse click
+2026-09-13 11:07:51,facial,blink,mouse click
+2026-09-13 11:08:05,facial,blink,mouse click
+2026-09-13 11:08:23,facial,blink,mouse click
+2026-09-13 11:08:24,voice,go back,browser back
+2026-09-13 11:08:37,facial,blink,mouse click
+2026-09-13 11:08:38,facial,blink,mouse click
+2026-09-13 11:13:18,facial,blink,mouse click
+2026-09-13 11:13:23,facial,blink,mouse click
+2026-09-13 11:13:27,facial,blink,mouse click
+2026-09-13 11:13:28,facial,blink,mouse click
+2026-09-13 11:13:30,facial,blink,mouse click
+2026-09-13 11:13:32,facial,blink,mouse click
+2026-09-13 11:13:36,facial,blink,mouse click
+2026-09-13 11:13:49,facial,blink,mouse click
+2026-09-13 11:14:01,facial,blink,mouse click
+2026-09-13 11:14:18,facial,blink,mouse click
+2026-09-13 11:15:03,facial,blink,mouse click
+2026-09-13 11:15:19,facial,blink,mouse click
+2026-09-13 11:15:24,facial,blink,mouse click
+2026-09-13 11:15:32,facial,blink,mouse click
+2026-09-13 11:15:51,facial,blink,mouse click
